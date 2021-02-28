@@ -1,2 +1,2 @@
 # Exercism - CSharp
-- Diretório que possui os exercícios do site https://exercism.io/ - C# Track
+- Diretório para consolidar os exercícios realizados na plataforma https://exercism.io/
